@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧠 I am a postdoctoral fellow at Polytechnique Montréal (NeuroPoly Lab) & Mila Québec AI Institute.
+
+- 🧲 My current research is focused on developing deep learning methods for spinal cord and lesion segmentation from MRI images.
+
+- 💻 As a member of the [Spinal Cord Toolbox (SCT)](https://spinalcordtoolbox.com) team, I maintain and develop a free and open-source set of command-line tools dedicated to the processing and analysis of spinal cord MRI data.
+
 <!--
 **valosekj/valosekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
