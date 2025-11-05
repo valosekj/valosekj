@@ -2,7 +2,10 @@
 
 - 🧠 I am a postdoctoral fellow at Polytechnique Montréal (NeuroPoly Lab) & Mila Québec AI Institute.
 
-- 🧲 My current research is focused on developing deep learning methods for spinal cord and lesion segmentation from MRI images.
+- 🧲 My current research is focused on developing deep learning methods for spinal cord and lesion segmentation from MRI images. Some recent work:
+  - [SCISeg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal Cord Injury
+](https://github.com/ivadomed/model_seg_sci?tab=readme-ov-file#sciseg-automatic-segmentation-of-t2-weighted-intramedullary-lesions-in-spinal-cord-injury)
+  - [RootletSeg: Automatic Segmentation of Spinal Nerve Rootlets](https://github.com/ivadomed/model-spinal-rootlets?tab=readme-ov-file#automatic-segmentation-of-spinal-nerve-rootlets)
 
 - 💻 As a member of the [Spinal Cord Toolbox (SCT)](https://spinalcordtoolbox.com) team, I maintain and develop a free and open-source set of command-line tools dedicated to the processing and analysis of spinal cord MRI data.
 
