@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧠 I am a postdoctoral fellow at Polytechnique Montréal (NeuroPoly Lab) & Mila Québec AI Institute.
+- 🧠 I am a postdoctoral fellow at the University of Zurich and the Spinal Cord Injury Center, Balgrist University Hospital, and a research fellow at NeuroPoly Lab, Polytechnique Montréal.
 
 - 🧲 My current research is focused on developing deep learning methods for spinal cord and lesion segmentation from MRI images. Some recent work:
   - [SCISeg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal Cord Injury
