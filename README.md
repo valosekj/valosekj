@@ -6,6 +6,7 @@
   - [SCISeg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal Cord Injury
 ](https://github.com/ivadomed/model_seg_sci?tab=readme-ov-file#sciseg-automatic-segmentation-of-t2-weighted-intramedullary-lesions-in-spinal-cord-injury)
   - [RootletSeg: Automatic Segmentation of Spinal Nerve Rootlets](https://github.com/ivadomed/model-spinal-rootlets?tab=readme-ov-file#automatic-segmentation-of-spinal-nerve-rootlets)
+  - [Normative spinal cord morphometry](https://github.com/spinalcordtoolbox/PAM50-normalized-metrics) 
 
 - 💻 As a member of the [Spinal Cord Toolbox (SCT)](https://spinalcordtoolbox.com) team, I maintain and develop a free and open-source set of command-line tools dedicated to the processing and analysis of spinal cord MRI data.
 
